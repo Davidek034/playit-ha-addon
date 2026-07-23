@@ -1,3 +1,3 @@
 Version 1.0.6:
 
-- Added logo
+- Added license, logo, docs, readme and icon
