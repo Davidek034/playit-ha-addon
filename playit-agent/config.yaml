@@ -6,7 +6,6 @@ url: https://playit.gg
 
 arch:
   - amd64
-  - aarch64
 
 startup: services
 boot: auto
