@@ -1,0 +1,19 @@
+name: Playit Agent
+version: "1.0.0"
+slug: playit-agent
+description: Run a Playit.gg tunnel agent on Home Assistant
+url: https://playit.gg
+
+arch:
+  - amd64
+  - aarch64
+
+startup: services
+boot: auto
+init: false
+
+options:
+  secret_key: ""
+
+schema:
+  secret_key: password
