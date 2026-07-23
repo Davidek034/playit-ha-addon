@@ -31,6 +31,10 @@ It allows external users to access services hosted on your local network even if
 
 ## Installation
 
+[![Open your Home Assistant instance and show the add app repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FDavidek034%2Fplayit-ha-addon%2F)
+
+Or
+
 1. Open Home Assistant
 2. Go to **Settings → Apps → App Store**
 3. Open the menu (⋮) → **Repositories**
@@ -42,8 +46,6 @@ https://github.com/Davidek034/playit-ha-addon
 
 5. Find **Playit Agent**
 6. Click **Install**
-
-[![Open your Home Assistant instance and show the add app repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FDavidek034%2Fplayit-ha-addon%2F)
 
 ---
 
