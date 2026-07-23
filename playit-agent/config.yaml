@@ -1,9 +1,7 @@
 name: Playit Agent
-version: "1.0.0"
+version: "1.0.1"
 slug: playit-agent
 description: Run a Playit.gg tunnel agent on Home Assistant
-url: https://playit.gg
-
 arch:
   - amd64
 
